@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">login app</string>
+    <string name="submit">submit</string>
+    <string name="password">password</string>
+    <string name="user_name">user name</string>
+    <string name="login">LOGIN</string>
+    <string name="ponraj">ponraj</string>
+    <string name="hello">Hello</string>
+    <string name="admin">admin</string>
+    <string name="Hello">Hello</string>
+</resources>
